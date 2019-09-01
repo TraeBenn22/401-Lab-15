@@ -1,6 +1,6 @@
 
 # Created by https://www.gitignore.io/api/vim,osx,linux,node
-db 
+src/auth/DB
 temp 
 data
 .env 
